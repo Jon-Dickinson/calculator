@@ -1,4 +1,4 @@
-## React function based components with hooks and Emotion.
+## React function based components with Hooks and Emotion.
 
 ### Simple calculator with basic operations.
 ### 90 minutes development time.
