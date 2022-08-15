@@ -1,8 +1,9 @@
-### Simple calculator with basic operations using React function based components with hooks and Emotion. 90 minutes development time.
+## React function based components with hooks and Emotion.
+
+### Simple calculator with basic operations.
+### 90 minutes development time.
 
 ![](https://github.com/Jon-Dickinson/calculator/blob/master/screenshot.png)
-
----
 
 ### install packages
 
